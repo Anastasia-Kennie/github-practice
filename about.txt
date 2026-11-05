@@ -3,3 +3,4 @@ Hello!
 My name is a GitHub learner.
 I am learning how to use GitHub.
 This is my first file.
+I am now learning how to edit files on GitHub.
